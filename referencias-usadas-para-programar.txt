@@ -1,0 +1,60 @@
+referencias:
+
+Tabela ASCII:
+https://web.fe.up.pt/~ee96100/projecto/Tabela%20ascii.htm
+https://www.ricardoarrigoni.com/tabela-ascii-completa/
+
+MDC:
+https://www.sofazquemsabe.com/2016/06/o-que-sao-numeros-primos-entre-si-coprimos-aprenda-a-identificar.html
+
+RSA Explicado 01: 
+https://www.youtube.com/watch?v=GAR1Ur_2IGk
+
+RSA Explicado 02:
+https://www.youtube.com/watch?v=yqo3Xa06tZc
+
+RSA em Java:
+https://www.devmedia.com.br/criptografia-assimetrica-criptografando-e-descriptografando-dados-em-java/31213
+
+Tipos de chaves criptográficas:
+https://www.youtube.com/watch?v=UJ6uSV1KREM
+
+Tipos de chaves assimétricas:
+https://sites.google.com/site/kryptosgraphein/algoritmosassimetricos
+
+Como funciona a criptografia:
+https://www.youtube.com/watch?v=glGrlf5mWcY
+
+Como funciona alguns tipos de criptografias:
+https://pt.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/rsa-encryption-part-4
+
+Algoritimo criptografia:
+http://etecnologicos.blogspot.com/2017/01/criptografia-usando-python.html
+
+Arquivos no python:
+https://stackabuse.com/reading-and-writing-lists-to-a-file-in-python/
+http://www.devfuria.com.br/python/manipulando-arquivos-de-texto/
+http://www.devfuria.com.br/python/receitas-para-manipular-arquivos-de-texto/
+https://linuxhandbook.com/python-write-list-file/
+
+Get system info with python:
+https://stackoverflow.com/questions/3103178/how-to-get-the-system-info-with-python
+
+Setter in python:
+https://pt.stackoverflow.com/questions/370263/attributeerror-cursoprogramacao-object-has-no-attribute-avaliacoes
+
+hasattr() -> Verificando um atribubto na classe no Python:
+https://www.programiz.com/python-programming/methods/built-in/hasattr
+
+Instalando Numpy e outros:
+https://solarianprogrammer.com/2017/02/25/install-numpy-scipy-matplotlib-python-3-windows/
+
+Erro no array e usando o numpy:
+https://stackoverflow.com/questions/15884527/how-can-i-prevent-the-typeerror-list-indices-must-be-integers-not-tuple-when-c
+
+Noções do numpy:
+https://cadernodelaboratorio.com.br/2017/03/10/primeiras-nocoes-do-numpy-um-tutorial/
+https://medium.com/ensina-ai/entendendo-a-biblioteca-numpy-4858fde63355
+
+
+

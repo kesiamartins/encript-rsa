@@ -1,0 +1,62 @@
+{
+    "1": {
+        "name": "Batman",
+        "password": "111",
+        "privateKeyA": "113",
+        "privateKeyB": "67",
+        "publicKeyAB": "7571",
+        "fiAB": "7392",
+        "publicKeyE": "5",
+        "privateInverse": "2957"
+    },
+    "2": {
+        "name": "Joker",
+        "password": "222",
+        "privateKeyA": "149",
+        "privateKeyB": "71",
+        "publicKeyAB": "10579",
+        "fiAB": "10360",
+        "publicKeyE": "3",
+        "privateInverse": "6907"
+    },
+    "3": {
+        "name": "Gustavo",
+        "password": "gugu",
+        "privateKeyA": "59",
+        "privateKeyB": "107",
+        "publicKeyAB": "6313",
+        "fiAB": "6148",
+        "publicKeyE": "3",
+        "privateInverse": "4099"
+    },
+    "4": {
+        "name": "Ian",
+        "password": "pypy",
+        "privateKeyA": "163",
+        "privateKeyB": "29",
+        "publicKeyAB": "4727",
+        "fiAB": "4536",
+        "publicKeyE": "5",
+        "privateInverse": "3629"
+    },
+    "5": {
+        "name": "Jennifer",
+        "password": "jj",
+        "privateKeyA": "263",
+        "privateKeyB": "89",
+        "publicKeyAB": "23407",
+        "fiAB": "23056",
+        "publicKeyE": "3",
+        "privateInverse": "15371"
+    },
+    "6": {
+        "name": "Patrick",
+        "password": "star",
+        "privateKeyA": "37",
+        "privateKeyB": "239",
+        "publicKeyAB": "8843",
+        "fiAB": "8568",
+        "publicKeyE": "5",
+        "privateInverse": "5141"
+    }
+}
